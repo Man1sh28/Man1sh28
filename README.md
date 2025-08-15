@@ -103,25 +103,10 @@ const manish = {
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</div>
 
----
-
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/man1sh/man1sh/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-<div align="center">
 
 ### 💝 Thanks for visiting my profile!
 
-![Visitor Count](https://profile-counter.glitch.me/man1sh/count.svg)
 
 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
