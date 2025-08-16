@@ -65,12 +65,12 @@ const manish = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=man1sh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=man1sh&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Man1sh28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Man1sh28&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=man1sh&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Man1sh28&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 
@@ -80,7 +80,7 @@ const manish = {
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=man1sh&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Man1sh28&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
 </div>
 
 ---
