@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Swift+Enthusiast;Always+Learning+New+Technologies;Building+Amazing+Digital+Experiences" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=man1sh28&label=Profile%20views&color=brightgreen&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Man1sh28&label=Profile%20views&color=brightgreen&style=for-the-badge)
 
 </div>
 
